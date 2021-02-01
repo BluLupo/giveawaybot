@@ -5,7 +5,7 @@
 import logging
 from core import commands
 from config import Config
-from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackQueryHandler, Filters
+from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',level=logging.INFO)
