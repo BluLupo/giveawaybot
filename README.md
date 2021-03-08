@@ -1,6 +1,3 @@
-## Getting Started
-There are two ways to install Nebula: with Docker and without.
-
 #### Requirements:
 - python 3.7+
 - MariaDB or MySQL
@@ -22,4 +19,5 @@ There are two ways to install Nebula: with Docker and without.
 | /setmain {text} | Edit the main text |
 | /setbutton {text} | Edit the text of the join button |
 | /result | Draw a winner at random |
+| /list | Participants List |
 | /config | Bot settings |
